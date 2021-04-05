@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Destr0\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\Destr0\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\Destr0\\Downloads\\arduino-nightly-windows\\arduino-nightly\\libraries\\**",
+                "C:\\Users\\Destr0\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.5\\**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ]
+        }
+    ]
+}
